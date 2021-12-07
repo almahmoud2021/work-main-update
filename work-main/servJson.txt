@@ -1,0 +1,63 @@
+    "serv": [
+        {
+           "id": 1,
+           "icon": "faFileCode" , 
+           "imgSrc": "public/img/assets/img1.jpg",
+           "title": "Application Development",
+          "desc1": "Design.",
+           "desc2": "Coding & Architecture .",
+           "desc3":"Business & GAP Analysis . " 
+          
+        },
+  
+        {
+           "id": 2,
+           "icon": "faFileUpload", 
+           "imgSrc": "public/img/assets/img2.jpg",
+           "title": "Customization & Implementation" ,
+           "desc1": "Banking Applications Implementation .",
+           "desc2": "Data Migration using tools and best practices."
+          
+        },
+  
+        {
+           "id": 3,
+           "icon": "faEnvelope",
+           "imgSrc": "public/img/assets/img3.jpg",
+           "title": "Support & Maintenance ",
+           "desc1": "Support for Applications .",
+           "desc2": "Re-architecting of legacy apps ",
+           "desc3": "Offshore / Onsite Support ." 
+        },
+      
+  
+        {
+           "id": "4",
+           "icon": "faCog",
+           "imgSrc": "public/img/assets/img4.jpg",
+           "title": "Middleware Services",
+           "desc1": "EAI Development Integration to Enable STP  .",
+           "desc2": "EAI through Web-Services ."
+  
+        },
+  
+        {
+           "id": 5,
+           "icon": "faUser",
+           "imgSrc": "public/img/assets/img5.jpg",
+           "title": "Quality Engineering & Assurance",
+           "desc1": "Functional Testing QC to ALM Testing Test Data Management .",
+           "desc2": "Performance Testing  .",
+           "desc3":"Agile Testing ." 
+        },
+  
+        {
+           "id": 6,
+           "icon": "faCalendar",
+           "imgSrc": "public/img/assets/img6.jpg",
+           "title": "Project & Product Management ",
+           "desc1": "project management methodologies without compromising time and budget.",
+           "desc2": "finding the best way in representing the smallest of the smallest information for our product. "
+         
+        }
+     ],

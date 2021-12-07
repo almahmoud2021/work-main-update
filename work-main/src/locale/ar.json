@@ -1,0 +1,288 @@
+
+{
+
+    "form_dialog":{
+        "title": "اختبر منتجك الآن",
+
+        "send_request" : "أرسل طلب",
+        "paragraph": "لاختبار منتجك , رجاءا قم بتعبئة المنوذج وسوف نتواصل معك",
+
+        "name": "الأسم",
+        "phone": "الهاتف",
+        "email": "البريد الألكتروني",
+        "company": "المنشأة",
+
+        "slect_service": "أختر الخدمة",
+        "digital_assurance": "ضمان رقمي",
+        "quality_assurance": "ضمان الجودة",
+        "next_generation_testing": "اختبار الجيل القادم",
+        "project_managment": "ادارة مشروع",
+        "interprice_application_services": "خدمات تطبيقات المؤسسة",
+
+        "message": "كيف يمكننا خدمتك ؟"
+
+    },
+    
+    "menu":{
+        "Home": "الرئيسية",
+        "Services" : "خدمات",
+        "Industries": "قطاعات",
+        "partners": "شركاء",
+        "About": "من نحن",
+        "Contact": "تواصل معنا"
+    },
+
+    "titles":{
+        "Home": "الرئيسية",
+        "About_Us": "من نحن",
+        "why_choose_us": "لماذا تختارنا",
+        "partners": "شركاؤنا",
+        "services": "خدمات"
+    },
+
+    "Header": {    
+        "title": "Aspire Technologies"
+
+    },
+    "About": {
+        "paragraph": "شركة خاصة تمتد عملياتها في المملكة العربية السعودية والإمارات العربية المتحدة وكندا والبحرين ومركز التطوير البحري في الهند ؛ وتتخصص في الاستشارات التقنية التي تستهدف أسواق آسيا والشرق الأوسط وأمريكا الشمالية مع فهم وانتشار سائد في قطاعات مثل المصرفية والتمويل والتأمين والاتصالات والتصنيع والصناعات والتجزئة والطاقة والمرافق وما إلى ذلك ، تأسست أسباير تكنولوجيز في أواخر عام 2012 ، بهدف النمو ؛ بدأت عملياتها تمامًا مثل أي لاعب آخر في العالم مع موظف وحيد وهو قادرًا على التوسع حتى 75+ والاحتساب بقوة حتى الآن.",
+        "Why": [
+            "نحن نساعد المؤسسات المصرفية والمالية الرائدة في الشرق الأوسط في متطلباتها المختلفة باستخدام أدوات تتطلب متطلبات الصناعة من Microsoft و IBM و Oracle و HP وغيرها." ,
+             "يدير مستشارونا المعتمدون من PMP إدارة المشروع بأقصى قدر ممكن من السلاسة دون المساس بالعملية والجودة." ,
+             "أحد أهم مجالات الخبرة لدى Exeder. لدينا مستشارون استثنائيون للاختبار يشغلون جزءًا كبيرًا من مؤسسة مصرفية رائدة في الشرق الأوسط."
+   ],
+        "Why2": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+
+
+    "Services": [{
+        "icon": "fa fa-file-code-o",
+        "name": "تطوير التطبيقات",
+        "text": "التصميم والترميز والهندسة المعمارية ، وتحليل الأعمال التجارية وجاب ، وتطوير البرمجيات في الموقع / في الخارج ، وإدارة الإصدار.",
+        "imgSrc": "public/img/assets/img1.jpg"
+    },
+    {
+        "icon": "fa fa-cloud-upload",
+        "name": "التخصيص والتنفيذ",
+        "text": "تنفيذ التطبيقات المصرفية ، وترحيل البيانات باستخدام الأدوات وأفضل الممارسات.",
+        "imgSrc": "public/img/assets/img2.jpg"
+    },
+    {
+        "icon": "fa fa-envelope-o",
+        "name": "الدعم والصيانة",
+        "text": "دعم التطبيقات ، إعادة تصميم التطبيقات القديمة ، الدعم الخارجي / في الموقع ، إدارة البيانات.",
+        "imgSrc": "public/img/assets/img3.jpg"
+    },
+    {
+        "icon": "fa fa-cog",
+        "name": "خدمات البرمجيات الوسيطة",
+        "text": "تطوير EAI ، EAI من خلال خدمات الويب ، التكامل لتمكين STP.",
+        "imgSrc": "public/img/assets/img4.jpg"
+    },
+    {
+        "icon": "fa fa-user",
+        "name": "هندسة الجودة والتأكيد",
+        "text": "الاختبار الوظيفي ، اختبار الأداء ، اختبار QC to ALM ، الاختبار السريع ، اختبار إدارة البيانات ، اختبار Blockchain",
+        "imgSrc": "public/img/assets/img5.jpg"
+    },
+    {
+        "icon": "fa fa-calendar",
+        "name": "إدارة المشاريع والمنتج",
+        "text": "منهجيات إدارة المشروع دون المساومة على الوقت والميزانية. وإيجاد أفضل طريقة لتمثيل أصغر المعلومات لمنتجنا ",
+        "imgSrc": "public/img/assets/img6.jpg"
+    }],
+
+
+
+
+    "getData": [
+        {
+           "id": 1,
+           "icon": "faFileCode" , 
+           "imgSrc": "public/img/assets/img1.jpg",
+           "title": "Application Development",
+          "desc1": "Design.",
+           "desc2": "Coding & Architecture .",
+           "desc3":"Business & GAP Analysis . " 
+          
+        },
+  
+        {
+           "id": 2,
+           "icon": "faFileUpload", 
+           "imgSrc": "public/img/assets/img2.jpg",
+           "title": "Customization & Implementation" ,
+           "desc1": "Banking Applications Implementation .",
+           "desc2": "Data Migration using tools and best practices."
+          
+        },
+  
+        {
+           "id": 3,
+           "icon": "faEnvelope",
+           "imgSrc": "public/img/assets/img3.jpg",
+           "title": "Support & Maintenance ",
+           "desc1": "Support for Applications .",
+           "desc2": "Re-architecting of legacy apps ",
+           "desc3": "Offshore / Onsite Support ." 
+        },
+      
+  
+        {
+           "id": "4",
+           "icon": "faCog",
+           "imgSrc": "public/img/assets/img4.jpg",
+           "title": "Middleware Services",
+           "desc1": "EAI Development Integration to Enable STP  .",
+           "desc2": "EAI through Web-Services ."
+  
+        },
+  
+        {
+           "id": 5,
+           "icon": "faUser",
+           "imgSrc": "public/img/assets/img5.jpg",
+           "title": "Quality Engineering & Assurance",
+           "desc1": "Functional Testing QC to ALM Testing Test Data Management .",
+           "desc2": "Performance Testing  .",
+           "desc3":"Agile Testing ." 
+        },
+  
+        {
+           "id": 6,
+           "icon": "faCalendar",
+           "imgSrc": "public/img/assets/img6.jpg",
+           "title": "Project & Product Management ",
+           "desc1": "project management methodologies without compromising time and budget.",
+           "desc2": "finding the best way in representing the smallest of the smallest information for our product. "
+         
+        }
+     ],
+
+
+
+
+
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Industries": [
+
+        {
+            "icon": "fa fa-user-md",
+            "name": "الرعاية الصحية والتعليم",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-link",
+            "name": "الإتصالات",
+            "text": ""
+        }
+       
+,
+        {
+            "icon": "fa fa-money",
+            "name": "البنوك والتمويل والضرائب والمحاسبة",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-shield",
+            "name": "تأمين",
+            "text": ""
+        },
+      
+        {
+            "icon": "fa  fa-bolt",
+            "name": "الطاقة والنفط والغاز",
+            "text": ""
+        },
+        {
+            "icon": "fa  fa-building",
+            "name": "التصنيع والصناعات",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "البيع بالتجزئة والمرافق",
+            "text": ""
+        }
+        
+    
+    ],
+
+    "Contact": {
+        "title": "تواصل معنا",
+        "paragraph": "الرجاء ملئ الاستمارة بالاسفل وارسالها لنا , وسوف نجيب عليكم في اقرب وقت ممكن",
+        "placeholder_name": "الأسم",
+        "placeholder_email": "البريد الألكتروني",
+        "placeholder_message": "...رسالة",
+        "send_message": "ارسال الرسالة",
+
+        "contact_info": "معلومات التواصل",
+        "label_adress": "العنوان",
+        "label_phone": "هاتف",
+        "label_email": "البريد الألكتروني",
+
+        "address": "الرياض , المملكة العربية السعودية",
+        "phone": "011 4736060",
+        "email": "info@aspiretechno.com",
+        "linkedin": "https://www.linkedin.com/company/aspire-technologies-llc",
+        "twitter": "https://twitter.com/Aspiretechnollc",
+        "youtube": "https://www.youtube.com/channel/UCqFF4Xw4IN5mYzKe1GPzsqA"
+
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
